@@ -524,3 +524,8 @@
     --btcpay-dark-shadow: rgba(211, 212, 213, 0.33);
   }
 }
+
+@media only screen and (max-width: 768px) {
+  /* For desktop: */
+  .pClass{font-size:20px}
+}
